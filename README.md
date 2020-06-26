@@ -17,7 +17,7 @@ Now, SQL commands can be used to explore the dataset and run queries on it.
 </br>
 Here is the schema of the database used for all the queries.
 
-![](images\schema.png)
+![schema](images/schema.png)
 
 
 
